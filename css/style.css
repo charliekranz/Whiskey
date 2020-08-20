@@ -13,6 +13,11 @@ body {
     color: white;
 }
 
+.container-wrapper--black {
+    background-color: #212529;
+    color: white;
+}
+
 .alert-container .col-12 {
     padding-left: 0;
     padding-right: 0;
@@ -190,6 +195,13 @@ body {
     font-weight: bold;
     margin-top: 10px;
     color: #f05f40
+}
+
+/* Favorites */
+
+.favorites {
+    text-align: center;
+    margin-bottom: 40px;
 }
 
 /* Alert */
